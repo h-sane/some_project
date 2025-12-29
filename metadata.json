@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PillVerify AI",
+  "description": "A professional-grade pill identification and drug information application powered by advanced computer vision and medical reasoning. Scan pills or labels to verify medication details, dosage, and safety contraindications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
